@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Harshith N J</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="450" src="https://www.vecteezy.com/video/11868785-animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-video-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithnj&label=Profile%20views&color=0e75b6&style=flat" alt="harshithnj" /> </p>
