@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithnj&label=Profile%20views&color=0e75b6&style=flat" alt="harshithnj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/twitter?style=social)" alt="" /></a> </p>
 
 - 💬 Ask me about **Analytics and Dash Boards**
 - 💬 Ask me about **Android**
