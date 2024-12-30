@@ -8,9 +8,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?style=social" alt="" /></a> </p>
 
 - 💬 Ask me about **Analytics and Dash Boards**
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Back-End Development**
+- 💬 Ask me about **Rest API**
+- 💬 Ask me about **Java Full Stack Development**
 
-- 📫 How to reach me **njharshith122@gmail.com**
+- 📫 How to reach me **harshithnj2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
