@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Harshith N J</h1>
+<h1 align="center"> I'm Harshith N J</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="450" src="https://www.vecteezy.com/video/11868785-animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-video-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media">
 
