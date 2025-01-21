@@ -60,4 +60,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithnj&show_icons=true&locale=en" alt="harshithnj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithnj&" alt="Harshith N J" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithnj&" alt="harshithnj" /></p>
