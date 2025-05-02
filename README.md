@@ -12,6 +12,7 @@
 - 💬 Ask me about **Back-End Development**
 - 💬 Ask me about **Rest API**
 - 💬 Ask me about **Java Full Stack Development**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **harshithnj2002@gmail.com**
 
